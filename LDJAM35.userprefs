@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\gameManager.cs">
+    <Files>
+      <File FileName="Assets\cubeControl.cs" Line="25" Column="1" />
+      <File FileName="Assets\cubesBaseControl.cs" Line="27" Column="5" />
+      <File FileName="Assets\wallControl.cs" Line="26" Column="4" />
+      <File FileName="Assets\baseCreator.cs" Line="61" Column="4" />
+      <File FileName="Assets\baseDestruction.cs" Line="25" Column="4" />
+      <File FileName="Assets\gameManager.cs" Line="19" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
